@@ -1,4 +1,4 @@
-package com.example.kejime2024
+package com.kejime.kejime2024_dart
 
 import io.flutter.embedding.android.FlutterActivity
 
