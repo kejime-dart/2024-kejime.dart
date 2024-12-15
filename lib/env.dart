@@ -1,0 +1,1 @@
+var iosDebugToken = '43565ABF-4B0E-4237-B286-A1632C90DD2B';
